@@ -21,7 +21,8 @@ body {
   }
   
   /* Handle */
-  ::-webkit-scrollbar-thumb {
+  /* 滚动条的滑块 */
+  ::-webkit-scrollbar-thumb {   
     background: #888;
     border-radius: 6px;
     height: 50px;
